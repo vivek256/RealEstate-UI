@@ -4,7 +4,6 @@ import React, { useState } from 'react'
 
 
 
-
 function App() {
 
   const [propertyType, setPropertyType] = useState('Select...');
